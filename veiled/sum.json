@@ -1,0 +1,22 @@
+{
+    "veiled chaos count": 2000,
+    "mods": {
+        "chance to deal Double Damage": 478,
+        "chance to deal Double Damage while Focused": 649,
+        "chance to Trigger Level 1 Blood Rage": 230,
+        "increased Attack Speed while a Rare or Unique": 680,
+        "increased Cast Speed, chance to gain Arcane Surge": 73,
+        "increased Damage per Endurance Charge": 235,
+        "increased Damage per Frenzy Charge": 215,
+        "increased Damage per Power Charge": 218,
+        "Dexterity, Intelligence, increased Attack Speed": 220,
+        "Strength, Dexterity, Accuracy": 386,
+        "Strength, Intelligence, Critical Strike Chance": 368,
+        "Multiplier while a Rare or Unique Enemy is Nearby": 632,
+        "Chaos Damage over Time Multiplier": 679,
+        "Fire Damage over Time Multiplier": 61,
+        "Physical Damage over Time Multiplier": 251,
+        "Minions have increased Attack Speed": 267,
+        "Trigger a Socketed Spell on Using a Skill": 358
+    }
+}
